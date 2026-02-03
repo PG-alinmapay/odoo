@@ -94,9 +94,7 @@ Detailed request/response formats and response codes are available in the Mercha
 ## Author & Document History
 
 - Prepared by: AlinmaPay Integration Team
-- Reviewed by: Vishal Utekar
 - Document Version: 3.0
-- Last Updated: 28-Feb-2026
 
 ---
 
