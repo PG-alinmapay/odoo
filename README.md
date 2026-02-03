@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Amazon Payment Services
 
 ## Technical details
@@ -32,3 +33,7 @@ https://paymentservices.amazon.com/docs/EN/12.html
 **Expiry Date**: any date in the future
 
 **CVC Code**: any
+=======
+# odoo-18
+The official Alinma Pay odoo 18 plugin.
+>>>>>>> f76bbc932aee2ec1e321b260760aeb8384dbb403
