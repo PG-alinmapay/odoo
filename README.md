@@ -1,4 +1,4 @@
-# AlinmaPay Payment Gateway for Odoo 18
+# AlinmaPay Payment Gateway for Odoo
 
 This module integrates **AlinmaPay Payment Gateway** with **Odoo 18**, allowing merchants to securely accept online payments through the Odoo e-Commerce platform.
 
@@ -15,7 +15,7 @@ By integrating AlinmaPay, merchants can process payments securely and efficientl
 
 | Component   | Version |
 |------------|---------|
-| Odoo       | 18.0    |
+| Odoo       | 18.0 | 19.0   |
 | PostgreSQL | 15.13   |
 
 ---
