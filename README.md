@@ -15,7 +15,7 @@ By integrating AlinmaPay, merchants can process payments securely and efficientl
 
 | Component   | Version |
 |------------|---------|
-| Odoo       | 18.0 | 19.0   |
+| Odoo       | 18.0, 19.0   |
 | PostgreSQL | 15.13   |
 
 ---
